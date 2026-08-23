@@ -1,10 +1,96 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Yontha</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>yontha | Student & Developer</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <!-- Inter Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
-<body>
-  <h1>Merhaba, ben Yontha</h1>
-  <p>Ben öğrenci ve geliştiriciyim.</p>
+<body class="bg-white text-gray-800 font-sans antialiased selection:bg-gray-200 selection:text-gray-900 min-h-screen flex flex-col justify-between">
+
+    <!-- Header / Nav -->
+    <header class="w-full max-w-2xl mx-auto px-6 py-10 flex justify-between items-center">
+        <a href="#" class="text-xl font-bold tracking-tighter text-gray-900 hover:opacity-80 transition-opacity">yontha.</a>
+        <nav class="flex space-x-6 text-sm font-medium text-gray-500">
+            <a href="#about" class="hover:text-gray-900 transition-colors">About</a>
+            <a href="#skills" class="hover:text-gray-900 transition-colors">Skills</a>
+            <a href="#contact" class="hover:text-gray-900 transition-colors">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="w-full max-w-2xl mx-auto px-6 py-12 flex-grow space-y-16">
+        
+        <!-- Hero Section -->
+        <section id="about" class="space-y-6">
+            <h1 class="text-4xl sm:text-5xl font-bold tracking-tight text-gray-900">
+                Hi, I'm yontha.
+            </h1>
+            <p class="text-gray-600 leading-relaxed text-lg sm:text-xl">
+                I am a student and developer. I have a deep passion for computers and technology, always exploring how things work behind the scenes.
+            </p>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="space-y-6">
+            <h2 class="text-2xl font-semibold tracking-tight text-gray-900">Skills & Experience</h2>
+            <div class="grid gap-4 sm:grid-cols-2">
+                <!-- Linux Card -->
+                <div class="p-5 rounded-2xl border border-gray-100 bg-gray-50/50 hover:border-gray-200 transition-colors">
+                    <h3 class="font-semibold text-gray-900 mb-2">Linux</h3>
+                    <p class="text-sm text-gray-600 leading-relaxed">
+                        Mid to advanced level experience. Comfortable working with various distributions, terminal environments, and system configurations.
+                    </p>
+                </div>
+                <!-- Python Card -->
+                <div class="p-5 rounded-2xl border border-gray-100 bg-gray-50/50 hover:border-gray-200 transition-colors">
+                    <h3 class="font-semibold text-gray-900 mb-2">Python</h3>
+                    <p class="text-sm text-gray-600 leading-relaxed">
+                        Basic level knowledge. Capable of writing simple scripts and automating everyday technological tasks.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="space-y-4">
+            <h2 class="text-2xl font-semibold tracking-tight text-gray-900">Connect</h2>
+            <p class="text-gray-600 leading-relaxed">
+                Feel free to check out my projects on GitHub or reach out to me directly.
+            </p>
+            <div class="flex space-x-6 pt-2 text-sm font-medium">
+                <a href="https://github.com/yontha" target="_blank" class="text-gray-500 hover:text-gray-900 underline underline-offset-4 decoration-gray-300 hover:decoration-gray-900 transition-all">
+                    GitHub
+                </a>
+                <a href="mailto:your-email@example.com" class="text-gray-500 hover:text-gray-900 underline underline-offset-4 decoration-gray-300 hover:decoration-gray-900 transition-all">
+                    Email
+                </a>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="w-full max-w-2xl mx-auto px-6 py-8 mt-12 border-t border-gray-100 text-sm text-gray-400 flex justify-between items-center">
+        <span>© 2026 yontha</span>
+        <span>Minimalist & Clean</span>
+    </footer>
+
 </body>
 </html>
